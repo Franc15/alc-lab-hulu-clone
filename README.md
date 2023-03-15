@@ -49,7 +49,7 @@ How to do a release and publish modules:
 <br>
 
 <p align="center">
-<img width="500" src="hulu.png" alt="screenshot">
+<img width="70%" src="hulu.png" alt="screenshot">
 </p>
 
 <br>

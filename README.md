@@ -25,6 +25,8 @@ How to do a release and publish modules:
 </p>
 <p align="center">Hulu Movie Streaming Website Clone</p>
 
+<img width="500" src="/static/images/result.png" alt="screenshot">
+
 <p align="center">
 <!--   <a href="https://hulu.com">
     <img src="https://img.shields.io/github/v/release/ergonode/frontend?include_prereleases" alt="Version">

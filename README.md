@@ -48,12 +48,14 @@ How to do a release and publish modules:
 </p>
 <br>
 
+<img width="400" src="hulu.png" alt="screenshot">
+
+<br>
+
 ## Project Introduction
 Welcome to the Hulu Clone project! This is a frontend project that aims to replicate the functionality and design of the popular movie streaming website, Hulu. The project has been built using modern frameworks such as React and Bootstrap, with the goal of creating a user-friendly and responsive web application.
 
 The main objective of this project is to provide a platform where users can stream movies and TV shows with ease, just like they do on the original Hulu website. The project features a clean and intuitive user interface, designed to provide an enjoyable and seamless viewing experience for all users.
-
-![screenshot](hulu.png)
 
 ## Installation
 

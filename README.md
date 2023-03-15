@@ -25,8 +25,6 @@ How to do a release and publish modules:
 </p>
 <p align="center">Hulu Movie Streaming Website Clone</p>
 
-<img width="500" src="/static/images/result.png" alt="screenshot">
-
 <p align="center">
 <!--   <a href="https://hulu.com">
     <img src="https://img.shields.io/github/v/release/ergonode/frontend?include_prereleases" alt="Version">
@@ -49,6 +47,13 @@ How to do a release and publish modules:
   </a> -->
 </p>
 <br>
+
+## Project Introduction
+Welcome to the Hulu Clone project! This is a frontend project that aims to replicate the functionality and design of the popular movie streaming website, Hulu. The project has been built using modern frameworks such as React and Bootstrap, with the goal of creating a user-friendly and responsive web application.
+
+The main objective of this project is to provide a platform where users can stream movies and TV shows with ease, just like they do on the original Hulu website. The project features a clean and intuitive user interface, designed to provide an enjoyable and seamless viewing experience for all users.
+
+<img width="500" src="logo.png" alt="screenshot">
 
 ## Installation
 

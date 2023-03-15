@@ -26,25 +26,25 @@ How to do a release and publish modules:
 <p align="center">Hulu Movie Streaming Website Clone</p>
 
 <p align="center">
-  <a href="https://hulu.com">
+<!--   <a href="https://hulu.com">
     <img src="https://img.shields.io/github/v/release/ergonode/frontend?include_prereleases" alt="Version">
 
-  </a>
-  <a href="https://hulu.com">
+  </a> -->
+<!--   <a href="https://hulu.com">
     <img src="https://img.shields.io/badge/version%20code-Vegas-00bc87.svg" alt="Code Version">
-  </a>
-  <a href="https://join.slack.com/t/ergonode/shared_invite/enQtNjI5NzU3NzM2MzU2LTY0ZGM4MGMyNGZjOGEyNDY5OGI1NzM5ZDNiMTY3YjA2YmRhMzY1OWE1MjJjZWEzM2YwOThkZDBjODZlZjY0ZmI">
+  </a> -->
+  <a href="https://join.slack.com">
     <img src="https://img.shields.io/badge/chat-on%20slack-e51670.svg" alt="Chat">
   </a>
-  <a href="https://devs.ergonode.com">
+  <a href="https://devs.to/franc15">
     <img src="https://img.shields.io/badge/docs-read-ffc108.svg" alt="Docs">
   </a>
   <a href="https://github.com/ergonode/frontend/blob/master/LICENSE.txt">
-    <img src="https://img.shields.io/github/license/ergonode/frontend.svg" alt="License">
+    <img src="https://img.shields.io/github/license/franc15/frontend.svg" alt="License">
   </a>
-  <a href="https://lerna.js.org">
+<!--   <a href="https://lerna.js.org">
     <img src="https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg" alt="Lerna">
-  </a>
+  </a> -->
 </p>
 <br>
 
@@ -146,15 +146,15 @@ Hulu Clone is open-source, and it can be brought to you only by great community 
 
 hulu clone source code is released under the [GPL 3.0 License][license].
 
-[slack]: https://join.slack.com/t/ergonode-community/shared_invite/zt-ibppxnyc-4Ykac1Gh64Qkk5SWy3sg3w
-[contribut]: https://devs.ergonode.com/#/community/contribution
+[slack]: https://join.slack.com
+[contribut]: https://devs.franc15.com/#/community/contribution
 [license]: ./LICENSE.txt
 [roadmap]: https://ergonode.com/features/#roadmap
-[docs]: https://devs.ergonode.com
+[docs]: https://docs.google.com
 [ddd]: https://en.wikipedia.org/wiki/Domain-driven_design
 [cqrs]: https://en.wikipedia.org/wiki/Command%E2%80%93query_separation
 [es]: https://dev.to/barryosull/event-sourcing-what-it-is-and-why-its-awesome
-[backend]: https://github.com/ergonode/backend
-[frontend]: https://github.com/ergonode/frontend
-[docker]: https://github.com/ergonode/docker
+[backend]: https://github.com/Franc15/backend
+[frontend]: https://github.com/Franc15/frontend
+[docker]: https://github.com/Franc15/docker
 

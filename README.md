@@ -53,7 +53,7 @@ Welcome to the Hulu Clone project! This is a frontend project that aims to repli
 
 The main objective of this project is to provide a platform where users can stream movies and TV shows with ease, just like they do on the original Hulu website. The project features a clean and intuitive user interface, designed to provide an enjoyable and seamless viewing experience for all users.
 
-<img width="500" src="logo.png" alt="screenshot">
+![screenshot](hulu.png)
 
 ## Installation
 
